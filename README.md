@@ -3,7 +3,7 @@
 # MoneySplits
 3 Contracts and methods for splitting and distributing funds. Equally, as a percentage, and deferred equity.  
 
-![link to videa](https://youtu.be/ir2gWW_6zOI)
+![link to video](https://youtu.be/ir2gWW_6zOI)
 
 ## Associate Splitter
 
