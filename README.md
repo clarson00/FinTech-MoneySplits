@@ -1,15 +1,19 @@
+
 ![CCBIG](./images/ccbig_web_logo_transparent.png)
 
 # MoneySplits
 3 Contracts and methods for splitting and distributing funds. Equally, as a percentage, and deferred equity.  
 
-![link to video](https://youtu.be/ir2gWW_6zOI)
+
+[![Proof Video](./images/youtube.png)](https://youtu.be/ir2gWW_6zOI)
+
+
 
 ## Associate Splitter
 
 This Ethereum solidity smart contracts defines 3 people (employees), takes a deposit, and distributes funds equally across the 3 people.
 
-## Tiered PRofit Splitter
+## Tiered Profit Splitter
 
 This Ethereum solidity  smart contract take 3 people and distributes deposits according to a percentage for each. One gets 60%, one gets 25%, and the last gets 15% with any small balances after the split going back to person 1.
 
